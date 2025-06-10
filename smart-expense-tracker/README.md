@@ -42,5 +42,5 @@ A full-stack, secure, and modern expense tracking REST API built with **Java Spr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-expense-tracker.git
+git clone https://github.com/sriram175/smart-expense-tracker.git
 cd smart-expense-tracker
