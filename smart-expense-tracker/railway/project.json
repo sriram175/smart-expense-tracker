@@ -1,4 +1,4 @@
 {
 "buildCommand":"/mvnw clean package -Dskiptests",
-"startCommand":"java -jar target/*.jar
+"startCommand":"java -jar target/*.jar"
 }
